@@ -24,16 +24,3 @@ sentiment = analyze_sentiment(text)
     
 # Output result
 print(f"Sentiment: {sentiment}")
-
-# def main():
-#     # Example text input
-#     text = input("Enter text for sentiment analysis: ")
-    
-#     # Get sentiment
-#     sentiment = analyze_sentiment(text)
-    
-#     # Output result
-#     print(f"Sentiment: {sentiment}")
-
-# if __name__ == "__main__":
-#     main()
